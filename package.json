@@ -1,0 +1,19 @@
+{
+  "name": "@v57/strip",
+  "version": "1.0.0",
+  "description": "Removes undefined values from object",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v57/js-strip.git"
+  },
+  "keywords": ["strip", "parsing"],
+  "author": "v57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v57/js-strip/issues"
+  },
+  "homepage": "https://github.com/v57/js-strip#readme"
+}
