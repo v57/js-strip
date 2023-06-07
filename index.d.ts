@@ -1,2 +1,2 @@
 declare module '@v57/strip'
-export function strip(obj: any): any;
+export default function strip(obj: any): any;

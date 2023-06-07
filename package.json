@@ -1,6 +1,6 @@
 {
   "name": "@v57/strip",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Removes undefined values from object",
   "main": "index.js",
   "files": ["index.js", "index.d.ts"],
