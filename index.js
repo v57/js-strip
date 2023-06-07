@@ -11,4 +11,4 @@ function strip(obj) {
   .map(([k,v])=>[k,v && typeof v === "object" ? Array.isArray(v) ? v : strip(v) : v])
   .reduce((a,[k,v]) => { return (v == null ? a : (a[k]=v, a)) }, {})
 }
-export default strip
+module.exports.strip = strip
